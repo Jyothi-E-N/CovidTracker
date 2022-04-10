@@ -15,4 +15,4 @@ DATA STRUCTURES USED
 
 INSTRUCTION TO SETUP AND RUN THE SOLUTION
 1. The webpage is hosted in netlify
-2. One can view the website in this link : https://covid-tracker-dashboard-reactjs.netlify.app/
+2. Website link : https://covid-tracker-dashboard-reactjs.netlify.app/
